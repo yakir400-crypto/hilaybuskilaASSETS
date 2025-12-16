@@ -1,6 +1,6 @@
 # about-title
 
-מעבר לאימונים, <br /> <span class="highlight-text">תכירו אותי?</span>
+מעבר לאימונים, <br /> <span class="highlight-text">מי אני?</span>
 
 # about-name
 
@@ -18,4 +18,5 @@ Assets/8.jpeg
 
 אני הילאי בוסקילה, בן 19. התחלתי את הדרך שלי בעולם הקליסטניקס לפני כמעט 6 שנים.
 ...
+
 
